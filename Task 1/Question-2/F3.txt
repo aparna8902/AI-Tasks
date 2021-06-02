@@ -1,0 +1,1 @@
+Python It is is an dynamically-typed interpreted and high-level garbage-collected. general-purpose It programming supports language. multiple Its programming language paradigms, constructs including as structured well object-oriented as and its functional object-oriented programming. approach aim to help programmers write clear, logical code for small and large-scale projects. 
